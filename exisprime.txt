@@ -1,0 +1,2 @@
+The isprime code is a Python code.
+This code takes an input number and checks whether it is a prime number or not!حقهئث

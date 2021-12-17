@@ -1,0 +1,3 @@
+Hello!
+It is very important that we know whether a number is even or odd!
+The oddoreven code is a python code. This code shows us whether a number is even or odd.
